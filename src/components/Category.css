@@ -1,0 +1,23 @@
+.select {
+    padding: 5px 10px;
+    font-size: 20px;
+    color: darkblue;
+    font-weight: 500;
+    background-color: lightblue;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    background-color: lightskyblue;
+}
+
+.info h2 {
+    margin-bottom: 10px;
+}
